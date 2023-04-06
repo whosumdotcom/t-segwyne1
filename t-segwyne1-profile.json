@@ -1,0 +1,45 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T11:22:58Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:segwyne"
+    },
+    {
+      "Claim": "mdon:@segwyne@mastodon.lol"
+    },
+    {
+      "Claim": "yt:@segwyne"
+    },
+    {
+      "Claim": "t:segwyne1"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "2a07f9828e80a227d949d33a",
+    "Timestamp": "2023-04-06T11:47:49Z",
+    "Signature": "12f96c039a36aa1dfd335f5eb0324d9a2ae50404236b0ef19c79e323c7a07495c1151371824597bbe7a7e8fc8281eaf0196dd98c66202db2db657097a5dcb8091271becd5ff8685b6c3b1d7161e62ca94e211d6dded9abcd3279e77d37b221c9b92375396aff5123aeb0d044bda4067bf191299af5f99bb323c06ec01e62e96d6c724e46a2ba714b66b55dc2e8b25fe4a0eb80ef20a82b987e29dc09c16495228e6d5ce9d8f4e82c2a700449abc40c944b8b0b6d1ed59e47da0ce275f68706446890867e04d8176cb5a27cb3db857864ad354e542770a030be20ecd55a6b7e2257f436fe8b9dce79dc0e0b38405cebd54616dca491473b39ded7a01d78fdda36"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "5260176e2cbca326a1be53ee5771a0e4f89e30e94f4a1f007d20bd21b952d908",
+  "ContentToHash": "v1|gh:segwyne,mdon:@segwyne@mastodon.lol,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:segwyne1,yt:@segwyne|2023-04-06T11:22:58Z"
+}
